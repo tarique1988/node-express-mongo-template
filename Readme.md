@@ -22,13 +22,13 @@ This is a simple template for a `Node-Express-Mongo` API development. Please rea
 Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/sajmtam/node-express-mongo-template.git
+git clone https://github.com/sajmtam/node-express-mongo-template.git template
 ```
 
 Step 2: CD into the folder
 
 ```bash
-cd barebones
+cd template
 ```
 
 Step 3: Install all dependencies
