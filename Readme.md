@@ -19,31 +19,31 @@ This is a simple template for a `Node-Express-Mongo` API development. Please rea
 
 ## Usage
 
-> Step 1: Clone the repository
+Step 1: Clone the repository
 
 ```bash
 git clone https://github.com/sajmtam/node-express-mongo-template.git
 ```
 
-> Step 2: CD into the folder
+Step 2: CD into the folder
 
 ```bash
 cd barebones
 ```
 
-> Step 3: Install all dependencies
+Step 3: Install all dependencies
 
 ```bash
 npm install
 ```
 
-> Step 4: Create a .env file using your favorite code editor
+Step 4: Create a .env file using your favorite code editor
 
 ```bash
 code .env
 ```
 
-> Step 5: `Copy paste` the following code in the `.env` file. _Please don't forget to replace dummy data with your app specific details._
+Step 5: `Copy paste` the following code in the `.env` file. _Please don't forget to replace dummy data with your app specific details._
 
 ```javascript
 USER = username;
@@ -53,7 +53,7 @@ DB = database;
 PORT = 30000;
 ```
 
-> Step 6: Run the server
+Step 6: Run the server
 
 ```bash
 npm start # using node
@@ -65,13 +65,13 @@ OR
 npm run dev # using nodemon
 ```
 
-> Step 7: Visit http://localhost:3000/api/templates/ in your browser to test the server, or use curl
+Step 7: Visit http://localhost:3000/api/templates/ in your browser to test the server, or use curl
 
 ```bash
 curl http://localhost:3000/api/templates/
 ```
 
-> Step 8: Enjoy!
+Step 8: Enjoy!
 
 ### Contributors
 
