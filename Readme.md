@@ -19,13 +19,13 @@ This is a simple template for a `Node-Express-Mongo` API development. Please rea
 
 ## Usage
 
-Step 1: Clone the repository
+Step 1: Clone the repository into a folder named `template`
 
 ```bash
 git clone https://github.com/sajmtam/node-express-mongo-template.git template
 ```
 
-Step 2: CD into the folder
+Step 2: CD into the `template` folder
 
 ```bash
 cd template
