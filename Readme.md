@@ -1,6 +1,6 @@
-# Mongo Express Node Template
+# Node-Express-Mongo Template
 
-This is a simple template for a Mongo-Express-Node API development.
+This is a simple template for a `Node-Express-Mongo` API development. Please read the usage section for details on how to use it.
 
 ## What's included
 
