@@ -2,7 +2,7 @@ const express = require("express");
 require("dotenv").config();
 const morgan = require("morgan");
 const cors = require("cors");
-const connectDB = require("./db");
+const connectDB = require("./utils/db");
 const templateRouter = require("./routes/template");
 const errorHandler = require("./middlewares/errorHandler");
 
