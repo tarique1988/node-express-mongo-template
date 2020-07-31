@@ -45,12 +45,12 @@ code .env
 
 Step 5: `Copy paste` the following code in the `.env` file. _Please don't forget to replace dummy data with your app specific details._
 
-```javascript
-USER = username;
-PASS = password;
-HOST = clusterURI; // (e.g., yourclustername.zaittt.gcp.mongodb.net)
-DB = database;
-PORT = 30000;
+```bash
+USER=username
+PASS=password
+HOST=clusterURI # (e.g., yourclustername.zaitt.gcp.mongodb.net)
+DB=database
+PORT=30000
 ```
 
 Step 6: Run the server
