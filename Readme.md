@@ -50,7 +50,7 @@ USER=username
 PASS=password
 HOST=clusterURI # (e.g., yourclustername.zaitt.gcp.mongodb.net)
 DB=database
-PORT=30000
+PORT=3000
 ```
 
 Step 6: Run the server
